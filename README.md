@@ -1,3 +1,4 @@
+<img width="960" alt="3" src="https://github.com/YeduruNivas/Microproject.github.io/assets/96375425/f17975ff-1b74-4b86-a7a8-eef086c866e4">
 # Microproject.github.io
 1. Create a form based on Student Enrollment Form that will store data in STUDENT-TABLE relation of SCHOOL-DB database.
 
