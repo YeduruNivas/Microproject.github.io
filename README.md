@@ -21,8 +21,7 @@ Primary Key: Roll No                                                            
    b).Click on [Update] button to update the data in the database and go to step-2.
 
    c).Click [Reset] to reset the form as per the step-2.
-![Uploading 3.png…]()
+<img width="955" alt="1" src="https://github.com/YeduruNivas/Microproject.github.io/assets/96375425/520fe5f7-cf8c-4f82-be9e-73ec896d6fbb">
 <img width="958" alt="2" src="https://github.com/YeduruNivas/Microproject.github.io/assets/96375425/33b4588f-0bda-4554-a95e-7b0c2314dd18">
 <img width="960" alt="3" src="https://github.com/YeduruNivas/Microproject.github.io/assets/96375425/f17975ff-1b74-4b86-a7a8-eef086c866e4">
-<img width="955" alt="1" src="https://github.com/YeduruNivas/Microproject.github.io/assets/96375425/520fe5f7-cf8c-4f82-be9e-73ec896d6fbb">
 <img width="960" alt="4" src="https://github.com/YeduruNivas/Microproject.github.io/assets/96375425/bf11e03f-4912-4033-987f-2c2ce17b141d">
